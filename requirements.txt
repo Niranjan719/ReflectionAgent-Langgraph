@@ -4,3 +4,5 @@ isort
 langchain
 langgraph
 langchain-openai
+grandalf
+langgraph
